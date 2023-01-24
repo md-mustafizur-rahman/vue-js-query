@@ -1,0 +1,1 @@
+npm uninstall -g @vue/cli or if using yarn yarn global remove @vue/cli
