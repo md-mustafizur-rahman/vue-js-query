@@ -1,0 +1,2 @@
+command:
+set-ExecutionPolicy RemoteSigned -Scope CurrentUser
